@@ -68,9 +68,9 @@ To use the SMS Spam Detection model on your own machine, follow these steps:
 ### 🤝 Contributions
 Contributions to this project are welcome!
 
-🐛 If you find any issues.
-💡 Have suggestions for improvement.
-👉 Open an issue or a pull request on this repository. 
+- 🐛 If you find any issues.
+- 💡 Have suggestions for improvement.
+- 👉 Open an issue or a pull request on this repository. 
 
 
 
